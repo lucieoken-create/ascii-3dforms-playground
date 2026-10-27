@@ -1,5 +1,7 @@
 # ASCII 3D forms playground
 
+Made by [Lucie Oken](https://www.linkedin.com/in/lucieoken/) at [hijinx.studio](https://hijinx.studio).
+
 A standalone portfolio artifact for experimenting with interactive 3D models
 rendered as ASCII. Switch the model, color, background, or randomize the whole
 scene.
